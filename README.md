@@ -13,7 +13,9 @@ Technologies Used
 HTML
 CSS
 JavaScript
-Java / PHP / MySQL (add whatever you used)
+Python
+Flask
+
 Purpose
 
 This project was developed as part of an academic mini/main project to assist users in planning their professional careers effectively.
